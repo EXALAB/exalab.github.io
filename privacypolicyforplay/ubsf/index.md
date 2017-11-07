@@ -1,4 +1,4 @@
-# Privacy Policy For Ultra Battery Saver Pro
+# Privacy Policy For Ultra Battery Saver
 
 
 
