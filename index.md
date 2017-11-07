@@ -10,6 +10,6 @@ Currently no News available.
 
 ### Privacy Policy For Release application
 
-Ultra Battery Saver Pro(https://exalab.github.io/privacypolicyforplay/ubsp)
+[Ultra Battery Saver Pro](https://exalab.github.io/privacypolicyforplay/ubsp)
 
-Ultra Battery Saver(https://exalab.github.io/privacypolicyforplay/ubsf)
+[Ultra Battery Saver](https://exalab.github.io/privacypolicyforplay/ubsf)
