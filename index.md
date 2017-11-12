@@ -6,6 +6,13 @@ EXA Lab is a team that currently develope application for android platform only.
 
 Currently no News available.
 
+[Power Button](https://play.google.com/store/apps/details?id=exa.open.pb) released on Play Store
+
+[Ultra Battery Saver Pro](https://play.google.com/store/apps/details?id=exa.pro.ubs.r) released on Play Store
+
+[Ultra Battery Saver](https://play.google.com/store/apps/details?id=exa.free.ubs) released on Play Store
+
+Only last 5 news will be shown
 
 
 ### Released Applications
