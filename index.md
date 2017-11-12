@@ -19,7 +19,7 @@ Only last 5 news will be shown
 
 [Ultra Battery Saver](https://play.google.com/store/apps/details?id=exa.free.ubs)
 
-[Power Button](https://play.google.com/store/apps/details?id=exa.open.pb)
+[Power Button (Open Source Application)](https://play.google.com/store/apps/details?id=exa.open.pb)
 
 Visit our developer page at Play Store for a full list of our application: [Developer Page](http://play.google.com/store/apps/dev?id=8450947575366721624) 
 
