@@ -4,20 +4,18 @@ EXA Lab is a team that currently develope application for android platform only.
 
 ### News
 
-[System App Uninstaller](https://play.google.com/store/apps/details?id=exa.free.sau) version updated!
+[Freezer](https://play.google.com/store/apps/details?id=exa.free.f) released on the Play Store
 
-[Power Button](https://play.google.com/store/apps/details?id=exa.open.pb) version updated!
-
-[Ultra Battery Saver Pro](https://play.google.com/store/apps/details?id=exa.pro.ubs.r) version updated!
-
-[Ultra Battery Saver](https://play.google.com/store/apps/details?id=exa.free.ubs) version updated!
-
-[System App Uninstaller](https://play.google.com/store/apps/details?id=exa.free.sau) released on Play Store
+[eMMC Brick Bug Check](https://play.google.com/store/apps/details?id=exa.free.emmc) released on the Play Store
 
 Only last 5 news will be shown
 
 
 ### Released Applications
+
+[Freezer](https://play.google.com/store/apps/details?id=exa.free.f)
+
+[eMMC Brick Bug Check](https://play.google.com/store/apps/details?id=exa.free.emmc)
 
 [System App Uninstaller](https://play.google.com/store/apps/details?id=exa.free.sau)
 
@@ -38,6 +36,8 @@ Visit our developer page at Play Store for a full list of our application: [Deve
 
 
 ### EULA For Released application
+
+[Freezer](https://exalab.github.io/eula/f)
 
 [System App Uninstaller](https://exalab.github.io/eula/sau)
 
