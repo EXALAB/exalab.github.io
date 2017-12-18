@@ -4,6 +4,10 @@ EXA Lab is a team that currently develope application for android platform only.
 
 ### News
 
+[SQLite Installer Pro](https://play.google.com/store/apps/details?id=exa.free.sqlp) released on the Play Store
+
+[SQLite Installer](https://play.google.com/store/apps/details?id=exa.free.sql) released on the Play Store
+
 [Freezer](https://play.google.com/store/apps/details?id=exa.free.f) released on the Play Store
 
 [eMMC Brick Bug Check](https://play.google.com/store/apps/details?id=exa.free.emmc) released on the Play Store
@@ -12,6 +16,10 @@ Only last 5 news will be shown
 
 
 ### Released Applications
+
+[SQLite Installer Pro](https://play.google.com/store/apps/details?id=exa.free.sqlp)
+
+[SQLite Installer](https://play.google.com/store/apps/details?id=exa.free.sql)
 
 [Freezer](https://play.google.com/store/apps/details?id=exa.free.f)
 
@@ -36,6 +44,10 @@ Visit our developer page at Play Store for a full list of our application: [Deve
 
 
 ### EULA For Released application
+
+[SQLite Installer Pro](https://exalab.github.io/eula/sqlp)
+
+[SQLite Installer](https://exalab.github.io/eula/sql)
 
 [Freezer](https://exalab.github.io/eula/f)
 
