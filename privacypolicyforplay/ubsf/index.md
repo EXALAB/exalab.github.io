@@ -15,7 +15,7 @@ Used to get current cellular network information.
 
 ### android.permission.ACCESS_FINE_LOCATION:
 
-Used to check device current gps status is disabled or enabled, etc.
+Used to check device current GPS status is disabled or enabled, etc.
 
 
 
