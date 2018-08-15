@@ -4,15 +4,7 @@ EXA Lab is a team that currently develope application for android platform only.
 
 ### News
 
-[EXA Battery Saver Pro](https://play.google.com/store/apps/details?id=exa.pro.ubs.r) updated with new version: 1.7.500
-
-[EXA Battery Saver](https://play.google.com/store/apps/details?id=exa.free.ubs) updated with new version: 1.7.000
-
-[SQLite Installer Pro](https://play.google.com/store/apps/details?id=exa.free.sqlp) released on the Play Store
-
-[SQLite Installer](https://play.google.com/store/apps/details?id=exa.free.sql) released on the Play Store
-
-[Freezer](https://play.google.com/store/apps/details?id=exa.free.f) released on the Play Store
+[Linux On Android](https://play.google.com/store/apps/details?id=exa.lnx.a) Released on the Play Store
 
 Only last 5 news will be shown
 
@@ -25,7 +17,7 @@ Only last 5 news will be shown
 
 [Freezer](https://play.google.com/store/apps/details?id=exa.free.f)
 
-[eMMC Brick Bug Check](https://play.google.com/store/apps/details?id=exa.free.emmc)
+[Linux On Android](https://play.google.com/store/apps/details?id=exa.lnx.a)
 
 [System App Uninstaller](https://play.google.com/store/apps/details?id=exa.free.sau)
 
