@@ -4,36 +4,10 @@ EXA Lab is a team that currently develop application for android platform only.
 
 ### News
 
-[Anlinux](https://play.google.com/store/apps/details?id=exa.lnx.a) is now a stable release!
-
-Only last 5 news will be shown
+From Now on *18 March 2019, we will start using this website to write our development event, what problem we face and what we planning to do.
 
 
 ### Released Applications
-
-[Anlinux](https://play.google.com/store/apps/details?id=exa.lnx.a)
-
-[SQLite Installer Pro](https://play.google.com/store/apps/details?id=exa.free.sqlp)
-
-[SQLite Installer](https://play.google.com/store/apps/details?id=exa.free.sql)
-
-[Freezer](https://play.google.com/store/apps/details?id=exa.free.f)
-
-[AnLinux](https://play.google.com/store/apps/details?id=exa.lnx.a)
-
-[EXA Battery Saver Pro](https://play.google.com/store/apps/details?id=exa.pro.ubs.r)
-
-[EXA Battery Saver](https://play.google.com/store/apps/details?id=exa.free.ubs)
-
-[fstrim Booster](https://play.google.com/store/apps/details?id=exa.free.fsb)
-
-[Root Checker](https://play.google.com/store/apps/details?id=exa.free.rc)
-
-[Busybox Installer](https://play.google.com/store/apps/details?id=exa.free.bbin)
-
-[Busybox Installer Pro](https://play.google.com/store/apps/details?id=exa.pro.bbin)
-
-[Power Button](https://play.google.com/store/apps/details?id=exa.open.pb)
 
 Visit our developer page at Play Store for a full list of our application: [Developer Page](http://play.google.com/store/apps/dev?id=8450947575366721624)
 
@@ -41,11 +15,7 @@ Visit our developer page at Play Store for a full list of our application: [Deve
 
 ### Source Code
 
-[AnLinux](https://github.com/EXALAB/AnLinux-App)
-
-[Busybox Installer](https://github.com/EXALAB/Busybox-Installer-No-Root)
-
-[Power Button](https://github.com/EXALAB/PowerButton)
+[Github](https://github.com/EXALAB)
 
 
 
