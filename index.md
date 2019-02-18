@@ -7,7 +7,7 @@ EXA Lab is a team that currently develop application for android platform only. 
 From Now on (18 Febuary 2019), we will start using this website to write our development event, what problem we face and what we planning to do.
 
 
-(&#1F4D6;) 18 Febuary 2019
+(&#x1F4D6;) 18 Febuary 2019
 
 I bought a new phone on 7 Febuary 2019, because my old Samsung Galaxy J7 Prime is broken. The new phone is the [Global Mi 8 Lite](https://www.mi.com/global/mi-8-lite/), everything is awesome, Processor, GPU, Audio, and price is cheap too. But still have a little drawback, unlocking Bootloader required 360 Hours of waiting (This really surprise me). It is somehow annoying for me who develop root required apps. So, the development proccess would be pause for a while, until 23 Febuary 2019, sorry for any 
 inconvenient caused.
