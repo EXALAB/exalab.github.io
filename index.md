@@ -4,7 +4,7 @@ EXA Lab is a team that currently develop application for android platform only.
 
 ### News
 
-From Now on *18 March 2019, we will start using this website to write our development event, what problem we face and what we planning to do.
+From Now on (18 March 2019), we will start using this website to write our development event, what problem we face and what we planning to do.
 
 
 ### Released Applications
