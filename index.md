@@ -6,6 +6,9 @@ EXA Lab is a team that currently develop application for android platform only. 
 
 From Now on (18 Febuary 2019), we will start using this website to write our development event, what problem we face and what we planning to do.
 
+&#x1F4D6 27 Febuary 2019
+
+Working on translation and new release of AnLinux, which is a pain in the ass, I need to move all the text in .java file to strings.xml, and pack new BackBox distro, however it will be release soon, stay tuned.
 
 &#x1F4D6; 18 Febuary 2019
 
