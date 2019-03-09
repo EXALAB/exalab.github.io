@@ -8,6 +8,10 @@ From Now on (18 Febuary 2019), we will start using this website to write our dev
 
 &#x1F4D6; 10 March 2019
 
+For me, Android development is pretty fun, sometimes I code the apps to the late night, sometimes testing something new but cause a wild mess, or maybe something seems impossible work well, and sometime a finding it is a mess after coding some part, so I have to revert it from history in IDE. For me this is the fun part and best way to spend my time, seeing users giving good review make me really happy, and bad review tell me how to improve my app, and if you have problem, I am willing to help too. But somehow, it is a little annoying about the accursing and misleading review, which I don't know how to answer, but yeah, there are any kind of people in the world, fortunately not much.
+
+&#x1F4D6; 10 March 2019
+
 Long time ago, when the highest Android version is Lollipop, and most of the Android device ram won't higher than 3GB, it is hard to think about, running something that require high ram consumption such as [GNOME or KDE](https://www.reddit.com/r/linux/comments/5l39tz/linux_distros_ram_consumption_comparison_updated/). However time has changed a lot, in today world, most of the Android device come with 4GB ram, so it is time to change, I will start to experiment about running HEAVIER DE on AnLinux distro, this include [GNOME](https://www.gnome.org/), [KDE](https://kde.org/), and maybe, [Cinnamon](https://en.wikipedia.org/wiki/Cinnamon_(software)), this is the spoiler for next month release, stay tuned :)
 
 
