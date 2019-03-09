@@ -6,7 +6,12 @@ EXA Lab is a team that currently develop application for android platform only. 
 
 From Now on (18 Febuary 2019), we will start using this website to write our development event, what problem we face and what we planning to do.
 
-&#x1F4D6 27 Febuary 2019
+&#x1F4D6; 10 March 2019
+
+Long time ago, when the highest Android version is Lollipop, and most of the Android device ram won't higher than 3GB, it is hard to think about, running something that require high ram consumption such as [GNOME or KDE](https://www.reddit.com/r/linux/comments/5l39tz/linux_distros_ram_consumption_comparison_updated/). However time has changed a lot, in today world, most of the Android device come with 4GB ram, so it is time to change, I will start to experiment about running HEAVIER DE on AnLinux distro, this include [GNOME}(https://www.gnome.org/), [KDE](https://kde.org/), and maybe, [Cinnamon](https://en.wikipedia.org/wiki/Cinnamon_(software)), this is the spoiler for next month release, stay tuned :)
+
+
+&#x1F4D6; 27 Febuary 2019
 
 Working on translation and new release of AnLinux, which is a pain in the ass, I need to move all the text in .java file to strings.xml, and pack new BackBox distro, however it will be release soon, stay tuned.
 
