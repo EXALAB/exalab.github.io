@@ -1,23 +1,7 @@
-# Privacy Policy For This Application
+# Privacy Policy For My Phone Number
 
+1. All the permission in this app are used to work within the app only, any data used in the app does NOT leave user device and will not be shared with any parties or person. 
 
+2. All data acquired(if any) will be deleted instantly when user closed the application.
 
-
-
-
-Below is the list of permission that require privacy policy to be set which is contain in this app, with explanation about why we need this permission, and how we proccess the data.
-
-
-### android.permission.READ_PHONE_STATE:
-
-Added by Admob Library, we do not request this permission and it is NOT Necessary for this application to work.
-
-
-### android.permission.WRITE_EXTERNAL_STORAGE
-
-
-Added by Admob Library, we do not request this permission and it is NOT Necessary for this application to work.
-
-
-
-Please note that disabling this permission does not affect how this application works.
+19/1/2022 By EXA Lab
