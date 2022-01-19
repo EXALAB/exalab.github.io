@@ -1,4 +1,4 @@
-# Privacy Policy For EXA Battery Saver
+# Privacy Policy For EXA Battery Saver Pro
 
 1. All the permission in this app are used to work within the app only, any data used in the app does NOT leave user device and will not be shared with any parties or person. 
 
