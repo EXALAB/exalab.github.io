@@ -4,4 +4,4 @@
 
 2. All data acquired(if any) will be deleted instantly when user closed the application.
 
-19/1/2022 By EXA Lab
+25/4/2023 By EXA Lab
