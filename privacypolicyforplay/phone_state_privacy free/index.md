@@ -1,4 +1,4 @@
-# Privacy Policy For My Phone Number
+# Privacy Policy For Find My Phone Number
 
 1. All the permission in this app are used to work within the app only, any data used in the app does NOT leave user device and will not be shared with any parties or person. 
 
