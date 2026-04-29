@@ -19,7 +19,7 @@ Unless EXA Lab (Owner) has authorized you to distribute the Software, you shall 
 
 
 3 . Ownership
-
+own : https://github.com/aripitek
 This license provides you with limited rights to use the Software. The Owner retains all ownership, right, title and interest in, to and of the Software and all copies of it. All rights not specifically granted in this license, including domestic and international copyrights, are reserved by the Owner.
 
 
