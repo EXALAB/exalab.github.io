@@ -1,5 +1,5 @@
 Privacy Policy for LinuxBox Donation
-Last updated: August 28, 2026
+Last updated: August 29, 2026
 
 LinuxBox Donation ("the app") is developed by Next Apps Lab. This Privacy Policy explains how information is handled when you use the app.
 
